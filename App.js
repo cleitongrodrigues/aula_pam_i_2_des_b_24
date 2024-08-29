@@ -24,3 +24,8 @@ const styles = StyleSheet.create({
   },
 });
 
+/*
+{
+  nomes.map((pessoa, pos) => <Mensagem nome={pessoa.nome} pos={pos} idade={pessoa.idade} />)
+}     
+*/
